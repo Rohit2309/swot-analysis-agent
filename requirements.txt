@@ -3,5 +3,4 @@ google-generativeai
 langchain
 langchain-google-genai
 tiktoken
-re
 PyPDF2
